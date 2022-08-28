@@ -1,2 +1,4 @@
 #!/usr/bin/python3
-print(', '.join(['{:02d},'.format(n)for n in range(99)]))
+for a in range(0, 99):
+    print("{:02d}".format(a), end=", ")
+print("{:d}".format(a + 1))
