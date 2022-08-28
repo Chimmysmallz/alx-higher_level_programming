@@ -1,6 +1,6 @@
-#New commands / functions used:
+# New commands / functions used:
 
-*lambda <input>: <expression> - one time, one line function
+* lambda <input>: <expression> - one time, one line function
 map(<function>, <values>)
 sum() - sums all elements in a list, defaults to start
 x.intersection(y) - Get the similarities between set x and set y
@@ -20,13 +20,13 @@ Python-Course on set()
 Python-Course on dictionaries
 Learn to Program 12
 
-##Description of Files
+## Description of Files
 
-**0-square_matrix_simple.py
+** 0-square_matrix_simple.py**
 
 Computes the square values of all items in a matrix
 
-**1-search_replace.py
+** 1-search_replace.py
 
 Replaces all instances of an element by another in a new list.
 
