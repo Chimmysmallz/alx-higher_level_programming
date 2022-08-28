@@ -4,7 +4,7 @@
 
 Complete the source code to print whether the random number is positive, negative or zero.
 
-**1-last_digit.py
+* 1-last_digit.py
 
 Complete the source code to print whether the last digit of the random number is positive, negative or zero.
 
