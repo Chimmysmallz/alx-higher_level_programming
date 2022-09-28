@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 """
-This file contains function that appends
-a string at the end of a text file and
-returns number of characters added
+Contains the function "append_wrtie"
 """
+
 
 def append_write(filename="", text=""):
     """returns the number of chars appended to "filename" from "text" """
